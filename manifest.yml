@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: SDK-JavaScript-Seminar
+  host: SDK-JavaScript-Seminar
+  disk_quota: 1024M
